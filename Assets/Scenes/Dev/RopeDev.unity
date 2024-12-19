@@ -203,7 +203,6 @@ MonoBehaviour:
   AutomaticCenterOfGravity: 0
   Mass: 0
   DrawForces: 0
-  GizmoSize: 0.01
   AppliedBuoyancyForce: 0
   AppliedGravityForce: 0
   ApplyCustomForce: 0
@@ -325,7 +324,6 @@ MonoBehaviour:
   AutomaticCenterOfGravity: 0
   Mass: 0
   DrawForces: 0
-  GizmoSize: 0.01
   AppliedBuoyancyForce: 0
   AppliedGravityForce: 0
   ApplyCustomForce: 0
@@ -723,7 +721,6 @@ MonoBehaviour:
   AutomaticCenterOfGravity: 0
   Mass: 0
   DrawForces: 0
-  GizmoSize: 0.01
   AppliedBuoyancyForce: 0
   AppliedGravityForce: 0
   ApplyCustomForce: 0
@@ -842,7 +839,6 @@ MonoBehaviour:
   AutomaticCenterOfGravity: 0
   Mass: 0
   DrawForces: 0
-  GizmoSize: 0.01
   AppliedBuoyancyForce: 0
   AppliedGravityForce: 0
   ApplyCustomForce: 0
@@ -1240,7 +1236,6 @@ MonoBehaviour:
   AutomaticCenterOfGravity: 0
   Mass: 0
   DrawForces: 0
-  GizmoSize: 0.01
   AppliedBuoyancyForce: 0
   AppliedGravityForce: 0
   ApplyCustomForce: 0
@@ -1328,7 +1323,6 @@ MonoBehaviour:
   AutomaticCenterOfGravity: 0
   Mass: 0
   DrawForces: 0
-  GizmoSize: 0.01
   AppliedBuoyancyForce: 0
   AppliedGravityForce: 0
   ApplyCustomForce: 0
@@ -1960,7 +1954,6 @@ MonoBehaviour:
   AutomaticCenterOfGravity: 0
   Mass: 0
   DrawForces: 0
-  GizmoSize: 0.01
   AppliedBuoyancyForce: 0
   AppliedGravityForce: 0
   ApplyCustomForce: 0
@@ -2414,7 +2407,6 @@ MonoBehaviour:
   AutomaticCenterOfGravity: 0
   Mass: 0
   DrawForces: 0
-  GizmoSize: 0.01
   AppliedBuoyancyForce: 0
   AppliedGravityForce: 0
   ApplyCustomForce: 0
@@ -2502,7 +2494,6 @@ MonoBehaviour:
   AutomaticCenterOfGravity: 0
   Mass: 0
   DrawForces: 0
-  GizmoSize: 0.01
   AppliedBuoyancyForce: 0
   AppliedGravityForce: 0
   ApplyCustomForce: 0
@@ -2817,7 +2808,6 @@ MonoBehaviour:
   AutomaticCenterOfGravity: 0
   Mass: 0
   DrawForces: 0
-  GizmoSize: 0.01
   AppliedBuoyancyForce: 0
   AppliedGravityForce: 0
   ApplyCustomForce: 0
@@ -2905,7 +2895,6 @@ MonoBehaviour:
   AutomaticCenterOfGravity: 0
   Mass: 0
   DrawForces: 0
-  GizmoSize: 0.01
   AppliedBuoyancyForce: 0
   AppliedGravityForce: 0
   ApplyCustomForce: 0
@@ -2993,7 +2982,6 @@ MonoBehaviour:
   AutomaticCenterOfGravity: 0
   Mass: 0
   DrawForces: 0
-  GizmoSize: 0.01
   AppliedBuoyancyForce: 0
   AppliedGravityForce: 0
   ApplyCustomForce: 0
@@ -3514,7 +3502,6 @@ MonoBehaviour:
   AutomaticCenterOfGravity: 0
   Mass: 0
   DrawForces: 0
-  GizmoSize: 0.01
   AppliedBuoyancyForce: 0
   AppliedGravityForce: 0
   ApplyCustomForce: 0
@@ -3685,7 +3672,6 @@ MonoBehaviour:
   AutomaticCenterOfGravity: 0
   Mass: 0
   DrawForces: 0
-  GizmoSize: 0.01
   AppliedBuoyancyForce: 0
   AppliedGravityForce: 0
   ApplyCustomForce: 0
@@ -3773,7 +3759,6 @@ MonoBehaviour:
   AutomaticCenterOfGravity: 0
   Mass: 0
   DrawForces: 0
-  GizmoSize: 0.01
   AppliedBuoyancyForce: 0
   AppliedGravityForce: 0
   ApplyCustomForce: 0
@@ -3861,7 +3846,6 @@ MonoBehaviour:
   AutomaticCenterOfGravity: 0
   Mass: 0
   DrawForces: 0
-  GizmoSize: 0.01
   AppliedBuoyancyForce: 0
   AppliedGravityForce: 0
   ApplyCustomForce: 0
@@ -4259,7 +4243,6 @@ MonoBehaviour:
   AutomaticCenterOfGravity: 0
   Mass: 0
   DrawForces: 0
-  GizmoSize: 0.01
   AppliedBuoyancyForce: 0
   AppliedGravityForce: 0
   ApplyCustomForce: 0
@@ -4347,7 +4330,6 @@ MonoBehaviour:
   AutomaticCenterOfGravity: 0
   Mass: 0
   DrawForces: 0
-  GizmoSize: 0.01
   AppliedBuoyancyForce: 0
   AppliedGravityForce: 0
   ApplyCustomForce: 0
@@ -4518,7 +4500,6 @@ MonoBehaviour:
   AutomaticCenterOfGravity: 0
   Mass: 0
   DrawForces: 0
-  GizmoSize: 0.01
   AppliedBuoyancyForce: 0
   AppliedGravityForce: 0
   ApplyCustomForce: 0
@@ -5021,7 +5002,6 @@ MonoBehaviour:
   AutomaticCenterOfGravity: 0
   Mass: 0
   DrawForces: 0
-  GizmoSize: 0.01
   AppliedBuoyancyForce: 0
   AppliedGravityForce: 0
   ApplyCustomForce: 0
@@ -5109,7 +5089,6 @@ MonoBehaviour:
   AutomaticCenterOfGravity: 0
   Mass: 0
   DrawForces: 0
-  GizmoSize: 0.01
   AppliedBuoyancyForce: 0
   AppliedGravityForce: 0
   ApplyCustomForce: 0
@@ -5132,7 +5111,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4800906380731054, guid: b2f9c349e7f9f430eae6dba87f83d39d, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.207
+      value: 2.29
       objectReference: {fileID: 0}
     - target: {fileID: 4800906380731054, guid: b2f9c349e7f9f430eae6dba87f83d39d, type: 3}
       propertyPath: m_LocalPosition.y
@@ -5140,7 +5119,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4800906380731054, guid: b2f9c349e7f9f430eae6dba87f83d39d, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 1.586
+      value: 2.01
       objectReference: {fileID: 0}
     - target: {fileID: 4800906380731054, guid: b2f9c349e7f9f430eae6dba87f83d39d, type: 3}
       propertyPath: m_LocalRotation.w
@@ -5229,7 +5208,7 @@ PrefabInstance:
     - target: {fileID: 8902112791058481484, guid: b2f9c349e7f9f430eae6dba87f83d39d, type: 3}
       propertyPath: Rope
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1204282436}
     - target: {fileID: 8902112791058481484, guid: b2f9c349e7f9f430eae6dba87f83d39d, type: 3}
       propertyPath: LoadLinkTF
       value: 
@@ -5237,6 +5216,10 @@ PrefabInstance:
     - target: {fileID: 8902112791058481484, guid: b2f9c349e7f9f430eae6dba87f83d39d, type: 3}
       propertyPath: AttackTheBuoy
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8902112791058481484, guid: b2f9c349e7f9f430eae6dba87f83d39d, type: 3}
+      propertyPath: DecelerationDistance
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 9212448763239170760, guid: b2f9c349e7f9f430eae6dba87f83d39d, type: 3}
       propertyPath: m_ParentAnchorPosition.x
@@ -5407,7 +5390,6 @@ MonoBehaviour:
   AutomaticCenterOfGravity: 0
   Mass: 0
   DrawForces: 0
-  GizmoSize: 0.01
   AppliedBuoyancyForce: 0
   AppliedGravityForce: 0
   ApplyCustomForce: 0
@@ -5495,7 +5477,6 @@ MonoBehaviour:
   AutomaticCenterOfGravity: 0
   Mass: 0
   DrawForces: 0
-  GizmoSize: 0.01
   AppliedBuoyancyForce: 0
   AppliedGravityForce: 0
   ApplyCustomForce: 0
@@ -6354,7 +6335,6 @@ MonoBehaviour:
   AutomaticCenterOfGravity: 0
   Mass: 0
   DrawForces: 0
-  GizmoSize: 0.01
   AppliedBuoyancyForce: 0
   AppliedGravityForce: 0
   ApplyCustomForce: 0
@@ -6691,7 +6671,6 @@ MonoBehaviour:
   AutomaticCenterOfGravity: 0
   Mass: 0
   DrawForces: 0
-  GizmoSize: 0.01
   AppliedBuoyancyForce: 0
   AppliedGravityForce: 0
   ApplyCustomForce: 0
@@ -7617,7 +7596,6 @@ MonoBehaviour:
   AutomaticCenterOfGravity: 0
   Mass: 0
   DrawForces: 0
-  GizmoSize: 0.01
   AppliedBuoyancyForce: 0
   AppliedGravityForce: 0
   ApplyCustomForce: 0
@@ -8548,7 +8526,6 @@ MonoBehaviour:
   AutomaticCenterOfGravity: 0
   Mass: 0
   DrawForces: 0
-  GizmoSize: 0.01
   AppliedBuoyancyForce: 0
   AppliedGravityForce: 0
   ApplyCustomForce: 0
@@ -9229,7 +9206,6 @@ MonoBehaviour:
   AutomaticCenterOfGravity: 0
   Mass: 0
   DrawForces: 0
-  GizmoSize: 0.01
   AppliedBuoyancyForce: 0
   AppliedGravityForce: 0
   ApplyCustomForce: 0
@@ -9317,7 +9293,6 @@ MonoBehaviour:
   AutomaticCenterOfGravity: 0
   Mass: 0
   DrawForces: 0
-  GizmoSize: 0.01
   AppliedBuoyancyForce: 0
   AppliedGravityForce: 0
   ApplyCustomForce: 0
@@ -9405,7 +9380,6 @@ MonoBehaviour:
   AutomaticCenterOfGravity: 0
   Mass: 0
   DrawForces: 0
-  GizmoSize: 0.01
   AppliedBuoyancyForce: 0
   AppliedGravityForce: 0
   ApplyCustomForce: 0
@@ -9659,7 +9633,6 @@ MonoBehaviour:
   AutomaticCenterOfGravity: 0
   Mass: 0
   DrawForces: 0
-  GizmoSize: 0.01
   AppliedBuoyancyForce: 0
   AppliedGravityForce: 0
   ApplyCustomForce: 0
@@ -9974,7 +9947,6 @@ MonoBehaviour:
   AutomaticCenterOfGravity: 0
   Mass: 0
   DrawForces: 0
-  GizmoSize: 0.01
   AppliedBuoyancyForce: 0
   AppliedGravityForce: 0
   ApplyCustomForce: 0
@@ -10523,7 +10495,6 @@ MonoBehaviour:
   AutomaticCenterOfGravity: 0
   Mass: 0
   DrawForces: 0
-  GizmoSize: 0.01
   AppliedBuoyancyForce: 0
   AppliedGravityForce: 0
   ApplyCustomForce: 0
@@ -10676,7 +10647,6 @@ MonoBehaviour:
   AutomaticCenterOfGravity: 0
   Mass: 0
   DrawForces: 0
-  GizmoSize: 0.01
   AppliedBuoyancyForce: 0
   AppliedGravityForce: 0
   ApplyCustomForce: 0
@@ -10930,7 +10900,6 @@ MonoBehaviour:
   AutomaticCenterOfGravity: 0
   Mass: 0
   DrawForces: 0
-  GizmoSize: 0.01
   AppliedBuoyancyForce: 0
   AppliedGravityForce: 0
   ApplyCustomForce: 0
@@ -11192,7 +11161,6 @@ MonoBehaviour:
   AutomaticCenterOfGravity: 0
   Mass: 0
   DrawForces: 0
-  GizmoSize: 0
   AppliedBuoyancyForce: 0
   AppliedGravityForce: 0
   ApplyCustomForce: 0
@@ -11991,7 +11959,6 @@ MonoBehaviour:
   AutomaticCenterOfGravity: 0
   Mass: 0
   DrawForces: 0
-  GizmoSize: 0.01
   AppliedBuoyancyForce: 0
   AppliedGravityForce: 0
   ApplyCustomForce: 0
@@ -12361,7 +12328,6 @@ MonoBehaviour:
   AutomaticCenterOfGravity: 0
   Mass: 0
   DrawForces: 0
-  GizmoSize: 0.01
   AppliedBuoyancyForce: 0
   AppliedGravityForce: 0
   ApplyCustomForce: 0
@@ -12532,7 +12498,6 @@ MonoBehaviour:
   AutomaticCenterOfGravity: 0
   Mass: 0
   DrawForces: 0
-  GizmoSize: 0.01
   AppliedBuoyancyForce: 0
   AppliedGravityForce: 0
   ApplyCustomForce: 0
@@ -13308,7 +13273,6 @@ MonoBehaviour:
   AutomaticCenterOfGravity: 0
   Mass: 0
   DrawForces: 0
-  GizmoSize: 0.01
   AppliedBuoyancyForce: 0
   AppliedGravityForce: 0
   ApplyCustomForce: 0
@@ -13396,7 +13360,6 @@ MonoBehaviour:
   AutomaticCenterOfGravity: 0
   Mass: 0
   DrawForces: 0
-  GizmoSize: 0.01
   AppliedBuoyancyForce: 0
   AppliedGravityForce: 0
   ApplyCustomForce: 0
@@ -13484,7 +13447,6 @@ MonoBehaviour:
   AutomaticCenterOfGravity: 0
   Mass: 0
   DrawForces: 0
-  GizmoSize: 0.01
   AppliedBuoyancyForce: 0
   AppliedGravityForce: 0
   ApplyCustomForce: 0
@@ -14165,7 +14127,6 @@ MonoBehaviour:
   AutomaticCenterOfGravity: 0
   Mass: 0
   DrawForces: 0
-  GizmoSize: 0.01
   AppliedBuoyancyForce: 0
   AppliedGravityForce: 0
   ApplyCustomForce: 0
@@ -14521,7 +14482,6 @@ MonoBehaviour:
   AutomaticCenterOfGravity: 0
   Mass: 0
   DrawForces: 0
-  GizmoSize: 0.01
   AppliedBuoyancyForce: 0
   AppliedGravityForce: 0
   ApplyCustomForce: 0
@@ -15180,7 +15140,6 @@ MonoBehaviour:
   AutomaticCenterOfGravity: 0
   Mass: 0
   DrawForces: 0
-  GizmoSize: 0.01
   AppliedBuoyancyForce: 0
   AppliedGravityForce: 0
   ApplyCustomForce: 0
@@ -15356,7 +15315,6 @@ MonoBehaviour:
   AutomaticCenterOfGravity: 0
   Mass: 0
   DrawForces: 0
-  GizmoSize: 0.01
   AppliedBuoyancyForce: 0
   AppliedGravityForce: 0
   ApplyCustomForce: 0
@@ -15754,7 +15712,6 @@ MonoBehaviour:
   AutomaticCenterOfGravity: 0
   Mass: 0
   DrawForces: 0
-  GizmoSize: 0.01
   AppliedBuoyancyForce: 0
   AppliedGravityForce: 0
   ApplyCustomForce: 0
@@ -16174,7 +16131,6 @@ MonoBehaviour:
   AutomaticCenterOfGravity: 0
   Mass: 0
   DrawForces: 0
-  GizmoSize: 0.01
   AppliedBuoyancyForce: 0
   AppliedGravityForce: 0
   ApplyCustomForce: 0
@@ -16616,7 +16572,6 @@ MonoBehaviour:
   AutomaticCenterOfGravity: 0
   Mass: 0
   DrawForces: 0
-  GizmoSize: 0.01
   AppliedBuoyancyForce: 0
   AppliedGravityForce: 0
   ApplyCustomForce: 0
@@ -17583,7 +17538,6 @@ MonoBehaviour:
   AutomaticCenterOfGravity: 0
   Mass: 0
   DrawForces: 0
-  GizmoSize: 0.01
   AppliedBuoyancyForce: 0
   AppliedGravityForce: 0
   ApplyCustomForce: 0
@@ -17905,7 +17859,6 @@ MonoBehaviour:
   AutomaticCenterOfGravity: 0
   Mass: 0
   DrawForces: 0
-  GizmoSize: 0.01
   AppliedBuoyancyForce: 0
   AppliedGravityForce: 0
   ApplyCustomForce: 0
@@ -18337,7 +18290,6 @@ MonoBehaviour:
   AutomaticCenterOfGravity: 0
   Mass: 0
   DrawForces: 0
-  GizmoSize: 0.01
   AppliedBuoyancyForce: 0
   AppliedGravityForce: 0
   ApplyCustomForce: 0
@@ -18887,7 +18839,6 @@ MonoBehaviour:
   AutomaticCenterOfGravity: 0
   Mass: 0
   DrawForces: 0
-  GizmoSize: 0.01
   AppliedBuoyancyForce: 0
   AppliedGravityForce: 0
   ApplyCustomForce: 0
@@ -19043,7 +18994,6 @@ MonoBehaviour:
   AutomaticCenterOfGravity: 0
   Mass: 0
   DrawForces: 0
-  GizmoSize: 0.01
   AppliedBuoyancyForce: 0
   AppliedGravityForce: 0
   ApplyCustomForce: 0
@@ -19607,7 +19557,6 @@ MonoBehaviour:
   AutomaticCenterOfGravity: 0
   Mass: 0
   DrawForces: 0
-  GizmoSize: 0.01
   AppliedBuoyancyForce: 0
   AppliedGravityForce: 0
   ApplyCustomForce: 0

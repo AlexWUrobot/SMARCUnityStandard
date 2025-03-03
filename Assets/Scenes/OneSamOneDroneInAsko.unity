@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.18028328, g: 0.22571328, b: 0.3069218, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028378, g: 0.22571412, b: 0.30692285, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -13596,6 +13596,10 @@ PrefabInstance:
       propertyPath: m_ParentAnchorPosition.x
       value: -0.000000029802322
       objectReference: {fileID: 0}
+    - target: {fileID: 3179540796430959622, guid: b2f9c349e7f9f430eae6dba87f83d39d, type: 3}
+      propertyPath: m_LinearDamping
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4096731413144450200, guid: b2f9c349e7f9f430eae6dba87f83d39d, type: 3}
       propertyPath: m_ParentAnchorPosition.x
       value: 0.31500003
@@ -13632,6 +13636,10 @@ PrefabInstance:
       propertyPath: LoadLinkTF
       value: 
       objectReference: {fileID: 1632637907}
+    - target: {fileID: 8902112791058481484, guid: b2f9c349e7f9f430eae6dba87f83d39d, type: 3}
+      propertyPath: LogTrajectory
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 9212448763239170760, guid: b2f9c349e7f9f430eae6dba87f83d39d, type: 3}
       propertyPath: m_ParentAnchorPosition.x
       value: -0.31500003
